@@ -22,7 +22,6 @@ config :poc_elixir_docker_app, PocElixirDockerAppWeb.Endpoint,
   check_origin: false,
   watchers: []
 
-
 # ## SSL Support
 #
 # In order to use HTTPS in development, a self-signed
@@ -47,7 +46,7 @@ config :poc_elixir_docker_app, PocElixirDockerAppWeb.Endpoint,
 # configured to run both http and https servers on
 # different ports.
 
-# # Watch static and templates for browser reloading.
+# Watch static and templates for browser reloading.
 # config :poc_elixir_docker_app, PocElixirDockerAppWeb.Endpoint,
 #   live_reload: [
 #     patterns: [

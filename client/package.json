@@ -40,7 +40,7 @@
     "@apollo/react-hooks": "^4.0.0",
     "apollo-link-context": "^1.0.20",
     "apollo-link-ws": "^1.0.20",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "omit-deep": "^0.3.0",
     "react-dev-utils": "^10.2.1",
     "react-image-file-resizer": "^0.3.1",
